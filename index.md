@@ -33,3 +33,8 @@ You are here because you are probably looking for one of the following resources
 [Digital Epigraphy Shape From Shading Tool](https://www.digitalepigraphy.org/db/app/sfs)
 
 [3D Model of the Rosetta Stone](https://research.dwi.ufl.edu/op.n/file/2fzrs3i2cvas964f/)
+
+## Project Websites
+[Imagineering and the Technosphere](https://abarmpou.github.io/technosphere/)
+
+[Chant Project - Introduction to the notation of St. Gall and Laon Families](https://digitalworlds.github.io/chant/)
