@@ -16,6 +16,8 @@ You are here because you are probably looking for one of the following resources
 
 [Android For Beginners - Develop Android applications using Java in Android Studio](https://github.com/abarmpou/AndroidForBeginners)
 
-## Tutorials
+## Tutorials and Manuals
 [Tutorial on Diffusion Tensor MRI using Matlab](https://abarmpou.github.io/fanDTasia/tutorial.html)
+
+[Digital Epigraphy - Shape From Shading User Manual v.1](https://abarmpou.github.io/assets/pdf/DigitalEpigraphy_Shape_From_Shading_User_Manual_v1.pdf)
 
