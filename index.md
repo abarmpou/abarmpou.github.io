@@ -21,3 +21,10 @@ You are here because you are probably looking for one of the following resources
 
 [Digital Epigraphy - Shape From Shading User Manual v.1](https://abarmpou.github.io/assets/pdf/DigitalEpigraphy_Shape_From_Shading_User_Manual_v1.pdf)
 
+## Popular Web Apps
+[UFLI Blending Board](https://research.dwi.ufl.edu/op.n/file/bca9ju45kvvrvoan/)
+[Games for UFLI Foundations](https://research.dwi.ufl.edu/op.n/file/pd7py49630t41lba/)
+[Beginner Word Work Mat](https://research.dwi.ufl.edu/op.n/file/cbhd8xmn9i4ctf7i/)
+[Intermediate Word Work Mat](https://research.dwi.ufl.edu/op.n/file/gc8nkxns914enc7d/)
+[Digital Epigraphy Shape From Shading Tool](https://www.digitalepigraphy.org/db/app/sfs)
+[3D Model of the Rosetta Stone](https://research.dwi.ufl.edu/op.n/file/2fzrs3i2cvas964f/)
