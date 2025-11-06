@@ -6,10 +6,16 @@ layout: default
 
 You are here because you are probably looking for one of the following resources:
 
-## My research website
+## My R&D websites
+[https://neuropacs.com](https://neuropacs.com)
+
 [https://abarmpou.github.io/angelos/](https://abarmpou.github.io/angelos/)
 
 ## Popular repositories
+[UPose framwork - AI motion tracking for Unity](https://github.com/digitalworlds/UPose)
+
+[UPose library - Python library for claculating body rotation from MediaPipe](https://pypi.org/project/upose/0.1.0/)
+
 [J4Q library - Develop Oculus Quest applications using Java in Android Studio](https://github.com/abarmpou/JavaForQuest)
 
 [J4K library - Develop Kinect applications using Java](https://github.com/abarmpou/java-for-kinect)
